@@ -13,11 +13,12 @@ import todoBody from './todo/todo.vue'
 import todoFooter from './todo/footer.vue'
 
 export default {
+
   name: 'app',
 
   data () {
     return {
-      msg: 'Hello'
+
     }
   },
 

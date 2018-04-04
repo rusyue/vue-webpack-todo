@@ -52,7 +52,9 @@ const config = {
         ]
     },
     plugins: [
-        new HTMLPlugin()
+        new HTMLPlugin({
+            title: 'R-TODO'
+        })
     ]
 }
 
